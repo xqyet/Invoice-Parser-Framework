@@ -12,7 +12,7 @@ This was a proof of concept **framework for parsing accounting invoices** I crea
 
 ## GUI Preview
 
-![GUI Screenshot](path_to_your_gui_screenshot)
+![GUI Screenshot](to_add_later.png)
 
 ## Requirements
 
