@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "invoice-parsing-436009",
+  "private_key_id": "3a05680eabcc6b2ecfb1f386ef7b52a0f0231fd3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDwbXNehRk6nm70\nt5TSUvJOjDx4ohaPf4IIHH2SdXc771Bh9qXxw6jvxhKxM2MHnvKRmh/N7mN37rl6\niD9pOiKAscbY9/H6F1eV5LCVj14Nv+MPWRiu44WU2Bawe+jsXnS3ZzGE2a6IyKjN\nSVQ2tAlswQqgpaQnBhfH4ueHUZ7Upn4SaRVrPLls+j+ocgKVlJI/gK89Hcx+z6s1\nZbiCc3k0ELb3XHY8Jzj3yzOWtjPRpCm9q/0Z43S7vJsJzZZ8CRtysSFQ0C2gMg2S\n7147aHM0dnFChaWHWAYlyAAx1szKZ9tlKohKV14Kcx2kxd4iRjY0l9PPiTYaAGQe\ny3++Ol2LAgMBAAECggEAXcY61Ndx/yiTW1SNMbmTc6qD3YNO7FpNw88k9S5mupQ9\nVHBIyjLH3flyCfZifjLzJnIoTIBaAIm2g0HIBclccrikN7UBhst66GZhr3vTMeax\nb6ePFot8axEbTGuP7j1rJauUp13mEsi8+hDLTWjMMkRa2kyw6V2ZgeeQ6Xkey46B\nD3f+fBYRLnxq/LC5+5I5ZOU8CLSd5X8imzHK/K+HFbZxElO98eEjshlpTPSkrIUE\nkGR5uFOE/GDJzB9C9KyeMu/HQyoquB/jGO1IoPhW/aEayeSTzFYlyRau9NP0peRv\nAjCYZf1DDtSjqIBZr2E1ha/HcW65uZpEZXi04dERRQKBgQD+YxpD1J5FAuNj4BYD\nWdwfOxQfaLe9Ld+90tFdffijB4fQQgjOk1KYWsyiDSFvrh6fBLboOIbLSpCIHtSE\nqbgwFPiqnsTmOJwOUPUe0NSmag+yKLhUp/kQ9jIYqVXkuNV8PR6UBCTk1RynuqnB\n8+0fre5DVfGbnvkWdE1SGUGVnwKBgQDx87CvtOOTdef0CHVokt/fuX12hGgoLrNO\nGivvypzXDYmzFoZae3JMe/5jpQ2RCQem1zZjfts+f0z4vABvVnvvc6I8/UC8SFFd\n3esRwAayugu5tSwJVLAag8Cg06cGKlkkQbG4/TxfdW1ZorPL3Oql241QyX2c3vLp\nqH+1Afy4lQKBgB34PPrqzK6itXlpyA4jAwzm3+sHYkY2ZlqtwJ68HZPPak+9x93W\ne2+ZmuwokdzfbZocaxQWvMKsiTSQNUdf22RGxDkNtXLODoydOxOjVLo6WpkJtRW8\nKFq4NpSzNnxYzkXxyW10w4f2F4cnNaK1AyWtTxm9wVYtN3lOwGFAunpPAoGBAO8i\nkjE3se5fDKCPc6ul7wtqg+yNtXxxm9rH10ErmpSa1sxgqO3pMPETZD0MNzpwGFX4\nQ9NW4E8G9waomi1w5xGl0mZBUKhHOdRysBFdH8GqTEiCHkIip+Os8MiEKILZfD1v\niL5z3CXlI+0B+H63nFvNggClBTf0y1XRqlc23Zd5AoGAQ1h0sCARqfpGn6jlZsbP\n7RolUCgPiy5Wya6m0QobJcHQ+imB3aJHnbWjRxN5crB4Lhr43sAUJfdnyNWYcFwx\nJfcH/Ua4YMIHX5jP0GP14H5larZRiwEsDRMr0volx7McbawaYT/F9aBoRHB6FNwY\nN9hTd4HnrKSFBRVhX3MD5hU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "invoice-parser-sa@invoice-parsing-436009.iam.gserviceaccount.com",
+  "client_id": "101680312306665023531",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/invoice-parser-sa%40invoice-parsing-436009.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
