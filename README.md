@@ -10,9 +10,6 @@ This was a proof of concept **framework for parsing accounting invoices** I crea
 - **Customizable Parsing Logic**: Easily extend or customize the parsing logic for different invoice formats by modifying the parsing rules in the code.
 - **Multiple Invoice Formats**: Designed to handle different formats of accounting invoices. Future versions will include functionality for adapting to additional invoice structures.
 
-## GUI Preview
-
-![GUI Screenshot](to_add_later.png)
 
 ## Requirements
 
