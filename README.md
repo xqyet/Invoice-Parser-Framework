@@ -1,6 +1,6 @@
 # Invoice Parser Framework
 
-A **framework for parsing accounting invoices** designed to streamline the process of extracting essential invoice data such as invoice numbers, customer details, billing addresses, line items, and totals from PDF invoices. The framework provides a simple yet flexible GUI for both drag-and-drop and file browsing options to upload invoices and generate structured JSON files containing parsed invoice data.
+This was a proof of concept **framework for parsing accounting invoices** I created to streamline the process of extracting invoice data such as invoice numbers, customer details, billing addresses, line items, and totals from PDF invoices. The framework provides a simple yet flexible GUI for both drag-and-drop and file browsing options to upload invoices and generate structured JSON files containing parsed invoice data. 
 
 ## Features
 
