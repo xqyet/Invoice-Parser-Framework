@@ -95,4 +95,4 @@ This framework is in its early stages and is designed to be flexible for differe
 
 ## License
 
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+this project is open-source of course so fork it and do whatever you want with it. reinventing the wheel or whatever.
