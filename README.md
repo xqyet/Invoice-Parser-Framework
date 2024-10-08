@@ -1,6 +1,6 @@
 # Invoice Parser Framework
 
-This was a proof of concept **framework for parsing accounting invoices** I created to streamline the process of extracting invoice data such as invoice numbers, customer details, billing addresses, line items, and totals from PDF invoices. The framework provides a simple yet flexible GUI for both drag-and-drop and file browsing options to upload invoices and generate structured JSON files containing parsed invoice data. 
+This was a proof of concept **framework for parsing accounting invoices** I created to streamline the process of extracting invoice data such as invoice numbers, customer details, billing addresses, line items, and totals from PDF invoices. The framework provides a simple yet flexible GUI for both drag-and-drop and file browsing options to upload invoices and generate structured JSON files containing parsed invoice data. ***Not fully working yet***
 
 ## Features
 
@@ -10,6 +10,7 @@ This was a proof of concept **framework for parsing accounting invoices** I crea
 - **Customizable Parsing Logic**: Easily extend or customize the parsing logic for different invoice formats by modifying the parsing rules in the code.
 - **Multiple Invoice Formats**: Designed to handle different formats of accounting invoices. Future versions will include functionality for adapting to additional invoice structures.
 
+![Parser GUI](Invoice-Parser-Framework/parsergui.png)
 
 ## Requirements
 
@@ -17,7 +18,7 @@ Before running the application, ensure that the following are installed on your 
 
 - [.NET SDK](https://dotnet.microsoft.com/download) (for building and running the application)
 - Visual Studio (or Visual Studio Code) with `.NET Desktop Development` workloads
-- **Tesseract OCR** (for extracting text from PDF invoices)
+- **NewtonSoft.json** (for extracting text from PDF invoices)
 - **iText7 PDF Library** (for PDF processing)
 - Optionally: **Google Document AI** (for more advanced cloud-based parsing)
   
@@ -35,11 +36,13 @@ To set up the Invoice Parser on your local machine:
 3. **Install Dependencies**:
    Make sure you have the necessary packages installed, including:
    - `iText7`
-   - `Tesseract OCR`
+   - `Newtonsoft.json`
    - Any additional libraries required for parsing and image processing
 
 4. **Run the Application**:
    Use Visual Studio to build and run the project. The GUI will allow you to either drag-and-drop PDF invoices or browse for files.
+
+![packages](Invoice-Parser-Framework/required_packages.png)
 
 ## How It Works
 
