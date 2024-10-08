@@ -10,7 +10,7 @@ This was a proof of concept **framework for parsing accounting invoices** I crea
 - **Customizable Parsing Logic**: Easily extend or customize the parsing logic for different invoice formats by modifying the parsing rules in the code.
 - **Multiple Invoice Formats**: Designed to handle different formats of accounting invoices. Future versions will include functionality for adapting to additional invoice structures.
 
-![Report Builder GUI](Invoice Parser/parsergui.png)
+![Parser GUI](Invoice Parser/parsergui.png)
 
 ## Requirements
 
@@ -41,6 +41,8 @@ To set up the Invoice Parser on your local machine:
 
 4. **Run the Application**:
    Use Visual Studio to build and run the project. The GUI will allow you to either drag-and-drop PDF invoices or browse for files.
+
+![packages](Invoice Parser/required_packages.png)
 
 ## How It Works
 
