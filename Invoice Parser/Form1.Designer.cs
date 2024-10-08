@@ -44,7 +44,7 @@
             buttonBrowse.FlatStyle = FlatStyle.Popup;
             buttonBrowse.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
             buttonBrowse.ForeColor = Color.White;
-            buttonBrowse.Location = new Point(220, 40);
+            buttonBrowse.Location = new Point(224, 40);
             buttonBrowse.Name = "buttonBrowse";
             buttonBrowse.Size = new Size(101, 42);
             buttonBrowse.TabIndex = 0;
