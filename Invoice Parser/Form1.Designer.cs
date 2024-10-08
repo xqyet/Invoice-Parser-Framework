@@ -44,7 +44,7 @@
             buttonBrowse.FlatStyle = FlatStyle.Popup;
             buttonBrowse.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
             buttonBrowse.ForeColor = Color.White;
-            buttonBrowse.Location = new Point(265, 46);
+            buttonBrowse.Location = new Point(220, 40);
             buttonBrowse.Name = "buttonBrowse";
             buttonBrowse.Size = new Size(101, 42);
             buttonBrowse.TabIndex = 0;
@@ -55,9 +55,9 @@
             // pictureBoxLogo
             // 
             pictureBoxLogo.Image = (Image)resources.GetObject("pictureBoxLogo.Image");
-            pictureBoxLogo.Location = new Point(-21, -50);
+            pictureBoxLogo.Location = new Point(-27, -52);
             pictureBoxLogo.Name = "pictureBoxLogo";
-            pictureBoxLogo.Size = new Size(521, 299);
+            pictureBoxLogo.Size = new Size(565, 378);
             pictureBoxLogo.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBoxLogo.TabIndex = 2;
             pictureBoxLogo.TabStop = false;
@@ -68,7 +68,7 @@
             panelButtonContainer.BorderStyle = BorderStyle.Fixed3D;
             panelButtonContainer.Controls.Add(buttonBrowse);
             panelButtonContainer.Controls.Add(pictureBoxDropImage2);
-            panelButtonContainer.Location = new Point(12, 255);
+            panelButtonContainer.Location = new Point(12, 257);
             panelButtonContainer.Name = "panelButtonContainer";
             panelButtonContainer.Size = new Size(460, 121);
             panelButtonContainer.TabIndex = 3;
@@ -76,9 +76,9 @@
             // pictureBoxDropImage2
             // 
             pictureBoxDropImage2.Image = (Image)resources.GetObject("pictureBoxDropImage2.Image");
-            pictureBoxDropImage2.Location = new Point(65, -13);
+            pictureBoxDropImage2.Location = new Point(69, 18);
             pictureBoxDropImage2.Name = "pictureBoxDropImage2";
-            pictureBoxDropImage2.Size = new Size(124, 142);
+            pictureBoxDropImage2.Size = new Size(76, 83);
             pictureBoxDropImage2.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBoxDropImage2.TabIndex = 5;
             pictureBoxDropImage2.TabStop = false;
@@ -97,7 +97,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(484, 479);
+            ClientSize = new Size(487, 479);
             Controls.Add(textBox1);
             Controls.Add(panelButtonContainer);
             Controls.Add(pictureBoxLogo);
