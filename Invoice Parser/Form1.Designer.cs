@@ -55,9 +55,9 @@
             // pictureBoxLogo
             // 
             pictureBoxLogo.Image = (Image)resources.GetObject("pictureBoxLogo.Image");
-            pictureBoxLogo.Location = new Point(-27, -52);
+            pictureBoxLogo.Location = new Point(-85, -55);
             pictureBoxLogo.Name = "pictureBoxLogo";
-            pictureBoxLogo.Size = new Size(565, 378);
+            pictureBoxLogo.Size = new Size(672, 378);
             pictureBoxLogo.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBoxLogo.TabIndex = 2;
             pictureBoxLogo.TabStop = false;
@@ -86,7 +86,7 @@
             // textBox1
             // 
             textBox1.BorderStyle = BorderStyle.None;
-            textBox1.Location = new Point(162, 455);
+            textBox1.Location = new Point(175, 451);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(110, 16);
             textBox1.TabIndex = 4;
@@ -97,7 +97,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(487, 479);
+            ClientSize = new Size(493, 479);
             Controls.Add(textBox1);
             Controls.Add(panelButtonContainer);
             Controls.Add(pictureBoxLogo);
